@@ -1,0 +1,2 @@
+# CMSC412
+Fall 2/2 2020 UMGC CMSC412 class
